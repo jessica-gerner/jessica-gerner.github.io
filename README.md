@@ -1,24 +1,8 @@
-# Jessica Gerner
-
-Clinical Psychology Ph.D. Candidate  
-The Catholic University of America  
-
-Welcome to my website. I am a clinical psychology doctoral candidate whose work focuses on suicide prevention, clinical assessment, and ecological momentary assessment.
-
 ## About Me
-I am a fifth-year Ph.D. candidate in Clinical Psychology at The Catholic University of America. My research interests include suicide-specific risk assessment, psychological pain, suicidal drivers, and real-time measurement of suicide-related thoughts and experiences.
+I am a fifth-year Ph.D. candidate in Clinical Psychology at The Catholic University of America in the Suicide Prevention Lab. My research focucses on the phenomenology of suicidal thoughts and behaviors—how we assess and treat them clinically, and how people themselves describe and make sense of their experiences. 
 
-## Research Interests
-- Suicide prevention
-- Clinical risk assessment
-- CAMS-related research
-- Ecological momentary assessment
-- Mixed methods research
-- Qualitative and quantitative approaches to suicidal cognition
-
-## Current Projects
-I am currently working on dissertation research examining the conceptual and linguistic overlap between suicide drivers and reasons for dying among hospital inpatients.
+I am particularly interested in research that has practical clinical applications, while also contributing to broader theory-testing and theory-building in suicide science. Much of my work uses advanced statistical modeling and ecological momentary assessment (EMA) to study short-term fluctuations in suicidal thoughts in daily life. In addition, I am interested in computational mixed methods approaches that combine qualitative analysis and more quantiative approaches, like natural language processing techniques. 
 
 ## Contact
-Email: your-email-here  
+Email: gerner@cua.edu
 GitHub: [jessica-gerner](https://github.com/jessica-gerner)
